@@ -1,5 +1,5 @@
 # On clone le dépot !
-git clone https://github.com/StephaneBouret/cars-course.git
+git clone https://github.com/StephaneBouret/api-wash.git
 
 # On se déplace dans le dossier
 cd api-wash
